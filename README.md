@@ -1,3 +1,5 @@
+# 🛠 _README.MD under construction._ 🛠
+
 # Hello! I'm Emanuel Rodriguez Bedeman
 
 
@@ -13,7 +15,7 @@ Tech
   
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
-#### 🛠 _GitHub under construction._ 🛠
+
 <h1 align="center">Hi 👋, I'm Emanuel Rodriguez Bedeman</h1>  
 <h3 align="center">A passionate developer from Argentina.</h3>  
   
