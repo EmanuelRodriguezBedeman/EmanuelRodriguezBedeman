@@ -6,4 +6,11 @@
 - 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind
 - 📫 If you want to reach me, send me an email on: ✉ emanuel.rodriguez.bedeman@gmail.com
 
-#### _GitHub under construction._
+Tech
+
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+  
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
+#### 🛠 _GitHub under construction._ 🛠
