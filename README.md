@@ -1,24 +1,18 @@
-# <h1 align="center"> 🛠 _README.MD under construction._ 🛠 </h1>
-
-# Hello! I'm Emanuel Rodriguez Bedeman
-
-
-- 👋 I'm a young entrepreneur from **Argentina**, who's starting his journey in programming.
-- 👀 I'm really interested in all that has to do with **web programming**, **software engineering** and **data**!
-- 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind
-- 📫 If you want to reach me, send me an email on: ✉ emanuel.rodriguez.bedeman@gmail.com
-
-Tech
-
-
 <!--![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
   
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 
 <h1 align="center">Hi 👋, I'm Emanuel Rodriguez Bedeman</h1>  
-<h3 align="center">A passionate developer from Argentina.</h3>  
-  
+<h3 align="center">A passionate developer from Argentina.</h3>
+
+<ul>
+<li align="center"> 👋 I'm a young entrepreneur from **Argentina**, who's starting his journey in programming. </li>
+<li align="center"> 👀 I'm really interested in all that has to do with **web programming**, **software engineering** and **data**! </li>
+<li align="center"> 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind </li>
+<li align="center"> 📫 If you want to reach me, send me an email on: ✉ emanuel.rodriguez.bedeman@gmail.com </li>
+</ul>
+
 <!-- <p hidden="true" align="left" > <img src="https://komarev.com/ghpvc/?username=emanuelrodriguezbedeman&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelrodriguezbedeman" /> </p>  -->
  
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelrodriguezbedeman" alt="emanuelrodriguezbedeman" /></a> </p>   -->
