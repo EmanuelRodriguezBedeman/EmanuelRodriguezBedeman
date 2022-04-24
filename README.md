@@ -8,11 +8,11 @@
 <h1 align="center">Hi 👋, I'm Emanuel Rodriguez Bedeman</h1>  
 <h3 align="center">A passionate developer from Argentina.</h3>
 
-<ul style="list-style-type:none">
-<li align="center"> 👋 I'm a young entrepreneur from **Argentina**, who's starting his journey in programming. </li>
-<li align="center"> 👀 I'm really interested in all that has to do with **web programming**, **software engineering** and **data**! </li>
-<li align="center"> 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind </li>
-</ul>
+
+<p align="center"> 👋 I'm a young entrepreneur from **Argentina**, who's starting his journey in programming. </p>
+<p align="center"> 👀 I'm really interested in all that has to do with **web programming**, **software engineering** and **data**! </p>
+<p align="center"> 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind </p>
+
 
 <!-- <p hidden="true" align="left" > <img src="https://komarev.com/ghpvc/?username=emanuelrodriguezbedeman&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelrodriguezbedeman" /> </p>  -->
  
