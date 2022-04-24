@@ -10,7 +10,6 @@
 <li align="center"> 👋 I'm a young entrepreneur from **Argentina**, who's starting his journey in programming. </li>
 <li align="center"> 👀 I'm really interested in all that has to do with **web programming**, **software engineering** and **data**! </li>
 <li align="center"> 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind </li>
-<li align="center"> 📫 If you want to reach me, send me an email on: ✉ emanuel.rodriguez.bedeman@gmail.com </li>
 </ul>
 
 <!-- <p hidden="true" align="left" > <img src="https://komarev.com/ghpvc/?username=emanuelrodriguezbedeman&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelrodriguezbedeman" /> </p>  -->
