@@ -6,10 +6,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Emanuel Rodriguez Bedeman</h1>  
-<h3 align="center">A passionate developer from Argentina.</h3>
+<h3 align="center">A passionate developer from Argentina 🧉.</h3>
 
 
-<p align="center"> 👋 I'm a young entrepreneur from <b>Argentina</b>, who's starting his journey in programming. </p>
+<p align="center"> 👋 I'm a young entrepreneur, who's starting his journey in programming. </p>
 <p align="center"> 👀 I'm really interested in all that has to do with <b>web programming</b>, **software engineering** and **data**! </p>
 <p align="center"> 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind </p>
 
