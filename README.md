@@ -10,7 +10,7 @@
 
 
 <p align="center"> 👋 I'm a young entrepreneur, who's starting his journey in programming. </p>
-<p align="center"> 👀 I'm really interested in all that has to do with <strong>web programming</strong>, **software engineering** and **data**! </p>
+<p align="center"> 👀 I'm really interested in all that has to do with <strong>web programming</strong>, <strong>software engineering<strong> and **data**! </p>
 <p align="center"> 🌱 I’m currently learning Web Development with **Ruby On Rails** as autodidact, and looking forward to also learn Tailwind! </p>
 
 
