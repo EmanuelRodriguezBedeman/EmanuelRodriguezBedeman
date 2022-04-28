@@ -12,7 +12,7 @@
 <p align="center">👋 I'm a young entrepreneur, who's starting his journey in programming.</p>
 <p align="center">👀 I'm really interested in all that has to do with <strong>web programming</strong>, <strong>software engineering</strong> and <strong>Data Analysis</strong>!</p>
 <p align="center">👷🏻‍♀️ Currently working with Node.js, Bootstrap, React and using SQL and Mongoose as the Databases for all my portofolio projects </p>
-<p align="center">🌱 Also, I’m currently learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
+<p align="center">🌱 Also, at the moment I'm learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
 
 
 <!-- <p hidden="true" align="left" > <img src="https://komarev.com/ghpvc/?username=emanuelrodriguezbedeman&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelrodriguezbedeman" /> </p>  -->
