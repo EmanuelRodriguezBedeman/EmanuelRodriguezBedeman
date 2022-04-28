@@ -11,7 +11,7 @@
 
 <p align="center">👋 I'm a young entrepreneur, who's starting his journey in programming.</p>
 <p align="center">👀 I'm really interested in all that has to do with <strong>web programming</strong>, <strong>software engineering</strong> and <strong>Data Analysis</strong>!</p>
-<p align="center">👷🏻‍♀️ Currently working with Node.js, Bootstrap, React and using SQL and Mongoose as my Databases for all the projects for my portfolio that I'm working on </p>
+<p align="center">👷🏻‍♀️ Currently working with Node.js, Bootstrap, React and using SQL and Mongoose as the Databases for all my portofolio project that I'm working on </p>
 <p align="center">🌱 Also, I’m currently learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
 
 
