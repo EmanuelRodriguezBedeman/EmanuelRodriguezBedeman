@@ -18,7 +18,9 @@
 <!-- <p hidden="true" align="left" > <img src="https://komarev.com/ghpvc/?username=emanuelrodriguezbedeman&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelrodriguezbedeman" /> </p>  -->
  
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emanuelrodriguezbedeman" alt="emanuelrodriguezbedeman" /></a> </p>   -->
- 
+
+</br>
+
 <h3 align="left">Technologies:</h3>  
 
 <h4 align="left">Programming Languages</h4>
