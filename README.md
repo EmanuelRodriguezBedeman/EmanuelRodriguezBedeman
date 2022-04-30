@@ -57,6 +57,12 @@
 <h4 align="left">Software</h4>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  
+| Type of Technology  | Technology
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelrodriguezbedeman&show_icons=true&locale=en" alt="emanuelrodriguezbedeman" /></p>  
 
