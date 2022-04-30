@@ -58,12 +58,22 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
+<!--TAB-->
+  
 | Type of Technology  | Technology
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Programming Languages     | right-aligned |
+| Front-End Development | centered      |
+| Back-End Development | are neat      |
+| Databases | |
+| Dev-Ops | |
+| Data Analysis / Science | |
+| Backend as a Service(BaaS) | |
+| Software | |
+| Others | |
 
+<!--TAB-->
+  
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelrodriguezbedeman&show_icons=true&locale=en" alt="emanuelrodriguezbedeman" /></p>  
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelrodriguezbedeman&show_icons=true&locale=en&layout=compact" alt="emanuelrodriguezbedeman" /></p> -->
