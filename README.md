@@ -31,6 +31,8 @@
 </div>
 <!--TAB-->
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelrodriguezbedeman&show_icons=true&locale=en" alt="emanuelrodriguezbedeman" /></p>
+
 <h3 align="center">Connect with me:</h3>  
 <p align="center"> 
 <a href="mailto:emanuel.rodriguez.bedeman@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Manuhs#7548" height="30" width="40" /></a>
