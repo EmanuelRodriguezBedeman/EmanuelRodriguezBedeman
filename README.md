@@ -10,7 +10,7 @@
 
 </br>
 
-<h2 align="center">Technologies I use:</h3>  
+<h3 align="center">Technologies I use:</h3>  
 
 <!--TAB-->
 
