@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Emanuel Rodriguez Bedeman</h1>  
 <h3 align="center">A Developer from Argentina 🧉.</h3>
 
-<p align="center">👋 I'm a young entrepreneur, who's starting his journey in programming.</p>
-<p align="center">👀 I'm really interested in all that has to do with <strong>web programming</strong>, <strong>software engineering</strong> and <strong>Data Analysis</strong>!</p>
-<p align="center">👷🏻‍♀️ Currently working with <strong>Node.js</strong>, <strong>Bootstrap</strong>, <strong>React</strong> and using <strong>SQL</strong> and <strong>Mongoose</strong> as the Databases for all my portofolio projects </p>
-<p align="center">🌱 Also, at the moment I'm learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
+<p align="center"> I'm a young entrepreneur, who's starting his journey in programming.</p>
+<p align="center"> I'm really interested in all that has to do with <strong>web programming</strong>, <strong>software engineering</strong> and <strong>Data Analysis</strong>!</p>
+<p align="center"> Currently working with <strong>Node.js</strong>, <strong>Bootstrap</strong>, <strong>React</strong> and using <strong>SQL</strong> and <strong>Mongoose</strong> as the Databases for all my portofolio projects </p>
+<p align="center"> Also, at the moment I'm learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
 
 
 
