@@ -8,11 +8,11 @@
 <p align="center"> Currently working with <strong>Node.js</strong>, <strong>Bootstrap</strong>, <strong>React</strong> and using <strong>SQL</strong> and <strong>Mongoose</strong> as the Databases for all my portofolio projects </p>
 <p align="center"> Also, at the moment I'm learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
 
-<h3 align="center">Technologies I use:</h3>  
+<h2 align="center">Technologies I use:</h2>
 
 <div align="center">
 
-| Type | Tech / Framework |
+| <h3>Type</h3> | <h3>Tech / Framework</h3> |
 | :-------------: |:-------------:|
 | <h4 align="left">Programming Languages</h4> | <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-3.1.2-red?style=flat&logo=ruby&logoColor=red&labelColor=white" alt="ruby"/></a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript" alt="javascript"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.10-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/></a>   |
 | <h4 align="left">Front-End Development</h4> | <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-5-red?logo=html5&labelColor=white" alt="html5"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-3-white?logo=css3&labelColor=blue" alt="css3"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-5.1-blueviolet?logo=Bootstrap&labelColor=white" alt="bootstrap"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-18.0-cyan?logo=React&logoColor=blue&labelColor=white" alt="react"/></a>  |
