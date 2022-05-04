@@ -36,3 +36,5 @@
 <a href="https://kaggle.com/emanuelbedeman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emanuelbedeman" height="30" width="40" /></a>  
 <a href="https://discord.gg/Manuhs#7548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Manuhs#7548" height="40" width="40" /></a>
 </p>
+
+---
