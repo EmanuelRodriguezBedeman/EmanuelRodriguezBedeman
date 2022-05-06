@@ -22,7 +22,7 @@
 | <h4 align="left">Dev-Ops</h4> |  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-4.7.1-blue?logo=Docker&labelColor=white" alt="docker"/></a> |
 | <h4 align="left">Backend as a Service(BaaS)</h4> | <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-18.0-blueviolet?logo=heroku&logoColor=purple&labelColor=white" alt="heroku"/></a> |
 | <h4 align="left">Software</h4> | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-9.15.13-orange?logo=Postman"/></a> |
-| <h4 align="left">Others</h4> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-3.0-lightgrey?logo=linux&logoColor=black&labelColor=white" alt="linux"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-2.36-red?logo=Git" alt="git"/></a> |
+| <h4 align="left">Others</h4> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-3.0-lightgrey?logo=linux&logoColor=black&labelColor=white" alt="linux"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-2.36-red?logo=Git&labelColor=white" alt="git"/></a> |
 
 </div>
 <!--TAB-->
