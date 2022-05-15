@@ -5,7 +5,7 @@ TO DO:
 [ ] Add gifs to all the projects
 
 <h1 align="center">Emanuel Rodriguez Bedeman</h1>  
-<h3 align="center">I'm a Developer from Argentina 🧉.</h3>
+<h3 align="center">I'm a Developer from Argentina🧉</h3>
 
 <p align="center"> I'm a young entrepreneur, who's starting his journey in programming.</p>
 <p align="center"> I'm really interested in all that has to do with <strong>web programming</strong>, <strong>software engineering</strong> and <strong>Data Analysis</strong>!</p>
