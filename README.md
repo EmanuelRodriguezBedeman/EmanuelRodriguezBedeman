@@ -2,7 +2,7 @@
 
 TO DO: 
 
-[ ] Add gifs to all the projects
+[ ] Add gifs to all the projects </br>
 [ ] Add "Google Analytics" Skills to the table
 
 <h1 align="center">Emanuel Rodriguez Bedeman</h1>  
