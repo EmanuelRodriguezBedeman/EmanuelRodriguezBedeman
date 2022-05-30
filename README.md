@@ -3,7 +3,6 @@
 TO DO: 
 
 [ ] Add gifs to all the projects </br>
-[ ] Add "Google Analytics" Skills to the table
 
 <h1 align="center">Emanuel Rodriguez Bedeman</h1>  
 <h3 align="center">I'm a Developer from Argentina🧉</h3>
