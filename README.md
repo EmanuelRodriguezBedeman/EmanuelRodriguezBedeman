@@ -1,9 +1,3 @@
-<h1 align="center">🛠 Under Construction 🛠</h1>
-
-TO DO: 
-
-[ ] Add gifs to all projects </br>
-
 <h1 align="center">Emanuel Rodriguez Bedeman</h1>  
 <h3 align="center">I'm a Developer from Argentina🧉</h3>
 
