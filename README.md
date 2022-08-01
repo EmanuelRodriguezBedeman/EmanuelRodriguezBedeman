@@ -6,7 +6,7 @@
 <p align="center"> Currently working with <strong>Node.js</strong>, <strong>Bootstrap</strong>, <strong>React</strong> and using <strong>SQL</strong> and <strong>Mongoose</strong> as the Databases for all my portofolio projects </p>
 <p align="center"> Also, at the moment I'm learning Web Development with <strong>Ruby On Rails</strong> as autodidact, and looking forward to also learn <strong>Tailwind!</strong></p>
 
-<h2 align="center">Technologies I used:</h2>
+<h2 align="center">Technologies I use:</h2>
 
 <div align="center">
 
