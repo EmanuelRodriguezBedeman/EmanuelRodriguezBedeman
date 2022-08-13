@@ -24,6 +24,31 @@
 | <h4 align="left">Others</h4> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-3.0-lightgrey?logo=linux&logoColor=black&labelColor=white" alt="linux"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-2.36-red?logo=Git&labelColor=white" alt="git"/></a> |
 
 </div>
+
+<!--Projects list-->
+
+Projects made while I'm doing a Web Development bootcamp by Angela Yu.
+
+Click on the name of the project to check it out!
+
+ - [HTML Resume](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
+
+ - [Presentation page](https://emanuelrodriguezbedeman.github.io/Web-Development/CSS%20Presentation/index.html) **made with _CSS_** 🎨
+
+ - [Tindog Website](https://emanuelrodriguezbedeman.github.io/Web-Development/Tindog%20Bootstrap%205/index.html) made with **_Bootstrap_** 🐶
+
+ - Play a [Dice Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Dice%20Game/dice.html) that I made! 🎲 (_Made with: JS, CSS, HTML_)
+
+ - Play with the [Drum Kit](https://emanuelrodriguezbedeman.github.io/Web-Development/Drum%20kit/index.html) 🥁 (_Made with: JS, CSS, HTML_)
+
+ - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS, HTML_)
+
+ - [Newsletter Subscription Webapp example](https://newsletter-signup753.herokuapp.com/) 🗞📰 (_Made with: Weather API, Express, Node.js, JQuery, JS, CSS, HTML_)
+
+ - [To Do List Webapp](https://todolist-erb.herokuapp.com/) 📝 (_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, CSS, HTML_)
+
+ - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, Bootstrap, CSS and HTML_)
+
 <!--TAB-->
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emanuelrodriguezbedeman&show_icons=true&locale=en" alt="emanuelrodriguezbedeman stats" /></p>
