@@ -27,9 +27,7 @@
 
 <!--Projects list-->
 
-Projects made while I'm doing a Web Development bootcamp by Angela Yu.
-
-Click on the name of the project to check it out!
+<h2>Projects I made in my career:</h2>
 
  - [HTML Resume](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
 
