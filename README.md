@@ -33,9 +33,9 @@
 
 <h3>This are the projects I did on my career</h3>
 
- - [HTML Resume](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
+ - [My Resume in HTML](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
 
- - [Presentation page](https://emanuelrodriguezbedeman.github.io/Web-Development/CSS%20Presentation/index.html) **made with _CSS_** 🎨
+ - [My Presentation page](https://emanuelrodriguezbedeman.github.io/Web-Development/CSS%20Presentation/index.html) **made with _CSS_** 🎨
 
  - [Tindog Website](https://emanuelrodriguezbedeman.github.io/Web-Development/Tindog%20Bootstrap%205/index.html) made with **_Bootstrap_** 🐶
 
