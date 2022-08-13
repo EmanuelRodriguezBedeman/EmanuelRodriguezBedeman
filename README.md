@@ -3,10 +3,10 @@
 
 <p align="center">I'm a young entrepreneur, self teaching, who started his journey in programming in 2020.</p>
 <p align="center">I'm really interested in everything that has to do with <b>Web Development</b> and <b>Data Science</b>!</p>
+<p align="center">Right now, I'm deeping my knowledge in <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
 <p align="center">Currently working with:</p>
 <p align="center">- <b>Ruby On Rails</strong>, <b>Bootstrap</b> and using <b>SQL</b> as the Databases for my current projects</p>
 <p align="center">- At my current work as Data Scientist, I'm exclusively working with Python</p>
-<p align="center">Right now, I'm deeping my knowledge in <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
 
 <h2 align="center">Technologies I learned on my journey:</h2>
 
