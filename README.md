@@ -27,7 +27,9 @@
 
 <!--Projects list-->
 
-<h2>Projects I made in my career:</h2>
+<h2>Checkout my portfolio!</h2>
+
+<h3>This are the projects I did on my career</h3>
 
  - [HTML Resume](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
 
