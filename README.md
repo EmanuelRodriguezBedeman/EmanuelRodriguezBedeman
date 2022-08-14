@@ -29,7 +29,7 @@
 
 <!--Projects list-->
 
-<h2>Checkout my portfolio!</h2>
+<h2 align="center">Checkout my portfolio!</h2>
 
 <h3>This are the projects I did on my career</h3>
 
