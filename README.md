@@ -33,6 +33,8 @@
 
 <h3>This are the projects I did on my career</h3>
 
+- Data Science project: "_Students Grades for Portuguese Course, Linear Regression_" You can see it on: [Kaggle](https://www.kaggle.com/emanuelbedeman/students-grades-for-portuguese-course/edit) [GitHub](https://github.com/EmanuelRodriguezBedeman/Python/blob/main/Machine%20Learning/Stundents%20Grades/Portuguese%20Students%20Grades%2C%20Regression.ipynb)
+
  - [My Resume in HTML](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
 
  - [My Presentation page](https://emanuelrodriguezbedeman.github.io/Web-Development/CSS%20Presentation/index.html) **made with _CSS_** 🎨
