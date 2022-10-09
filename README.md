@@ -1,5 +1,5 @@
 <h1 align="center">Emanuel Rodriguez Bedeman</h1>  
-<h3 align="center">I'm a Developer from Argentina🧉</h3>
+<h3 align="center">A Developer from Argentina🧉</h3>
 
 <p align="center">I'm a young entrepreneur, self teaching, who started his journey in programming in 2020.</p>
 <p align="center">Really interested, in everything that has to do with <b>Web Development</b> and <b>Data Analysis</b>!</p>
