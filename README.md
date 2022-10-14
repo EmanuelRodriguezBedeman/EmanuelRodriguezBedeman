@@ -3,7 +3,7 @@
 
 <p align="center">I'm a young entrepreneur, self teaching, who started his journey in programming in 2021.</p>
 <p align="center">Really interested, in everything that has to do with <b>Web Development</b> and <b>Data Analysis</b>!</p>
-<p align="center">Right now, I'm deeping my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
+<p align="center">Right now, I'm widing my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
 <p align="center">Currently working with:</p>
 <p align="center">- <b>Ruby On Rails</strong>, <b>Bootstrap</b> and <b>SQL</b> for my current Web development projects.</p>
 <p align="center">- At my current work as Data Analyst, I'm exclusively working with Python</p>
