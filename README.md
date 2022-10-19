@@ -31,7 +31,7 @@
 
 <h2 align="center">Checkout my portfolio!</h2>
 
-<h3>This are the projects I made on my career:</h3>
+<h3>Projects made on my career:</h3>
 
 - <ins>Data Science project:</ins> "_Students Grades for Portuguese Course, Linear Regression_" You can see it on: [Kaggle](https://www.kaggle.com/emanuelbedeman/students-grades-for-portuguese-course/edit) or [GitHub](https://github.com/EmanuelRodriguezBedeman/Python/blob/main/Machine%20Learning/Stundents%20Grades/Portuguese%20Students%20Grades%2C%20Regression.ipynb)
 
