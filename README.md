@@ -53,6 +53,8 @@
 
  - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, Bootstrap, CSS and HTML_)
 
+ - Currently working on a Schedule Tweets webapp with Ruby On Rails 🔻, Omniauth, Redis and Bootstrap!
+
 <!--TAB-->
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emanuelrodriguezbedeman&show_icons=true&locale=en" alt="emanuelrodriguezbedeman stats" /></p>
