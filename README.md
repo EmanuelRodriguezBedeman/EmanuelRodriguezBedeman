@@ -27,6 +27,15 @@
 
 </div>
 
+<h2 align="center">Tech I'm looking to master:</h2>
+<div align="center">
+
+| <h3>Type</h3> | <h3>Tech / Framework</h3> |
+| :-------------: |:-------------:|
+| Languages | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.10-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-3.1-red?style=flat&logo=ruby&logoColor=red&labelColor=white" alt="ruby"/></a> |
+ 
+ </div>
+
 <!--Projects list-->
 
 <h2 align="center">Checkout my portfolio!</h2>
