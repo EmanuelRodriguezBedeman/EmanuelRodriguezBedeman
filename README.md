@@ -5,7 +5,7 @@
 <p align="center">Really interested, in everything that has to do with <b>Web Development</b> and <b>Data Analysis</b>!</p>
 <p align="center">Right now, I'm widing my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
 <p align="center">Currently working with:</p>
-<p align="center">- At my current work as Data Analyst, using Python.</p>
+<p align="center">- At my current job as Data Analyst, using Python.</p>
 <p align="center">- <b>Ruby On Rails</strong>, <b>Bootstrap</b> and <b>SQL</b> for my current Web development projects.</p>
 
 <h2 align="center">Technologies I learned on my journey:</h2>
