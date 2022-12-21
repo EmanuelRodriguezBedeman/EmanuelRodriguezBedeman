@@ -67,7 +67,7 @@
 
  - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, Bootstrap, CSS and HTML_)
 
- - Currently working on a Schedule Tweets webapp with Ruby On Rails 🔻, Omniauth, Redis and Bootstrap!
+ - Schedule Tweets webapp (_Made with:Ruby On Rails 🔻, Omniauth, Redis and Bootstrap_)
 
 <!--TAB-->
 
