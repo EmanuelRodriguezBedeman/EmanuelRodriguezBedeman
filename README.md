@@ -59,7 +59,7 @@
 
  - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS, HTML_)
 
-<h2 align="center">Projects on stand-by due to Heroku's plans:</h2>
+<h2 align="center">Projects on hold due to Heroku's plans changes:</h2>
 
  - [Newsletter Subscription](https://newsletter-signup753.herokuapp.com/) 🗞📰 (_Made with: Mailchimp API, Express, Node.js, JQuery, JS, CSS, HTML_)
 
