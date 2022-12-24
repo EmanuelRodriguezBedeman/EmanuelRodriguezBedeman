@@ -35,6 +35,8 @@
 | :-------------: |:-------------:|
 | Languages | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.10-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/></a> <img src="https://img.shields.io/badge/SQL-%20-blue?style=flat&logoColor=blue&labelColor=white" alt="SQL"> |
 | Dev Ops | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-4.7-blue?logo=Docker&labelColor=white" alt="docker"/></a> |
+| Dashboards | <a href="https://analytics.google.com/analytics/academy/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Data%20Studio-%20-orange?labelColor=white&logo=google&logoColor=orange" alt="Google Analytics 4"/></a> |
+| Agile Development | <a href="https://www.atlassian.com/agile/scrum" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SCRUM-%20-blue?logo=Atlassian&logoColor=blue&labelColor=white" alt="linux"/></a> |
 | Others | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-3.0-lightgrey?logo=linux&logoColor=black&labelColor=white" alt="linux"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-2.36-red?logo=Git&labelColor=white" alt="git"/></a> |
  
  </div>
