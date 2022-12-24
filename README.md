@@ -33,7 +33,7 @@
 
 | <h3>Type</h3> | <h3>Tech / Framework</h3> |
 | :-------------: |:-------------:|
-| Languages | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.10-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/></a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ruby-3.1-red?style=flat&logo=ruby&logoColor=red&labelColor=white" alt="ruby"/></a> <img src="https://img.shields.io/badge/SQL-%20-blue?style=flat&logoColor=blue&labelColor=white" alt="SQL"> |
+| Languages | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.10-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/></a> <img src="https://img.shields.io/badge/SQL-%20-blue?style=flat&logoColor=blue&labelColor=white" alt="SQL"> |
  
  </div>
 
