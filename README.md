@@ -57,19 +57,19 @@
 
  - [Tindog Website](https://emanuelrodriguezbedeman.github.io/Web-Development/Tindog%20Bootstrap%205/index.html) made with **_Bootstrap_** 🐶
 
- - Play a [Dice Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Dice%20Game/dice.html) that I made! 🎲 (_Made with: JS, CSS, HTML_)
+ - Play a [Dice Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Dice%20Game/dice.html) that I made! 🎲 (_Made with: JS, CSS_)
 
- - Play with the [Drum Kit](https://emanuelrodriguezbedeman.github.io/Web-Development/Drum%20kit/index.html) 🥁 (_Made with: JS, CSS, HTML_)
+ - Play with the [Drum Kit](https://emanuelrodriguezbedeman.github.io/Web-Development/Drum%20kit/index.html) 🥁 (_Made with: JS, CSS_)
 
- - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS, HTML_)
+ - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS_)
 
 <h2 align="center">Projects on hold due to Heroku's plans changes:</h2>
 
- - [Newsletter Subscription](https://newsletter-signup753.herokuapp.com/) 🗞📰 (_Made with: Mailchimp API, Express, Node.js, JQuery, JS, CSS, HTML_)
+ - [Newsletter Subscription](https://newsletter-signup753.herokuapp.com/) 🗞📰 (_Made with: Mailchimp API, Express, Node.js, JQuery, JS, CSS_)
 
- - [To Do List Webapp](https://todolist-erb.herokuapp.com/) 📝 (_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, CSS, HTML_)
+ - [To Do List Webapp](https://todolist-erb.herokuapp.com/) 📝 (_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, CSS_)
 
- - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, Bootstrap, CSS and HTML_)
+ - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, Bootstrap, CSS_)
 
  - Schedule Tweets webapp (_Made with:Ruby On Rails 🔻, Omniauth, Redis and Bootstrap_)
 
