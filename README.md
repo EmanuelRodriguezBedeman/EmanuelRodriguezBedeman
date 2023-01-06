@@ -21,6 +21,8 @@
 | Others | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-3.0-lightgrey?logo=linux&logoColor=black&labelColor=white" alt="linux"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-2.36-red?logo=Git&labelColor=white" alt="git"/></a> |
  
  </div>
+ 
+---
 
 <h2 align="center">Technologies I learned on my journey:</h2>
 
