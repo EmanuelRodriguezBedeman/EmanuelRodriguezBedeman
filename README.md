@@ -65,7 +65,7 @@
 
 <h2 align="center">Projects on hold due to Heroku's plans changes:</h2>
 
- - [Newsletter Subscription](https://newsletter-signup753.herokuapp.com/) 🗞📰 (_Made with: Mailchimp API, Express, Node.js, JQuery, JS, CSS_)
+ - [Newsletter Subscription](https://newsletter-signup-example.onrender.com/) 🗞📰 (_Made with: Mailchimp API, Express, Node.js, JQuery, JS, CSS_)
 
  - [To Do List Webapp](https://todolist-erb.herokuapp.com/) 📝 (_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, CSS_)
 
