@@ -65,13 +65,13 @@
 
  - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS_)
 
- - [Newsletter Subscription](https://newsletter-signup-example2.onrender.com/) 🗞📰 (_Made with: Mailchimp API, Express, Node.js, JQuery, JS, CSS_)
+ - [Newsletter Subscription](https://newsletter-signup-example2.onrender.com/) 🗞📰 (_Made with: Node.js, Mailchimp API, Express, JQuery, JS, Custom CSS_)
 
 <h2 align="center">Projects on hold due to Heroku's plans changes:</h2>
 
- - [To Do List Webapp](https://todolist-erb.herokuapp.com/) 📝 (_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, CSS_)
+ - [To Do List Webapp](https://todolist-erb.herokuapp.com/) 📝 (_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Custom CSS_)
 
- - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Mongoose, Lodash, Express, Node.js, JQuery, JS, Bootstrap, CSS_)
+ - [Daily Journal V2](https://daily-journalv2.herokuapp.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_)
 
  - Schedule Tweets webapp (_Made with:Ruby On Rails 🔻, Omniauth, Redis and Bootstrap_)
 
