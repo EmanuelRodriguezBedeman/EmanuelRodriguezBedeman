@@ -51,7 +51,7 @@
 
 - [Project CRUD](https://github.com/EmanuelRodriguezBedeman/Python/tree/main/Project-CRUD)
 
-- <ins>Data Science project:</ins> "_Students Grades for Portuguese Course, Linear Regression_" You can find it on: [Kaggle](https://www.kaggle.com/emanuelbedeman/students-grades-for-portuguese-course/edit) or [GitHub](https://github.com/EmanuelRodriguezBedeman/Python/blob/main/Machine%20Learning/Stundents%20Grades/Portuguese%20Students%20Grades%2C%20Regression.ipynb)
+- <ins>Machine Learning project:</ins> "_Students Grades for Portuguese Course, Linear Regression_" You can find it on: [Kaggle](https://www.kaggle.com/emanuelbedeman/students-grades-for-portuguese-course/edit) or [GitHub](https://github.com/EmanuelRodriguezBedeman/Python/blob/main/Machine%20Learning/Stundents%20Grades/Portuguese%20Students%20Grades%2C%20Regression.ipynb)
 
  - [My Resume in HTML](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
 
