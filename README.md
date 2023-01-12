@@ -6,7 +6,7 @@
 <p align="center">Right now, I'm widing my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
 <p align="center">Currently working with:</p>
 <p align="center">- <str>Python</str> At my current job as Data Analyst</p>
-<p align="center">- Ruby On Rails Schedule Tweets Webapp</p>
+<p align="center">- <str>Ruby On Rails</str> Schedule Tweets Webapp</p>
 <!-- <p align="center">- <b>Ruby On Rails</strong>, <b>Bootstrap</b> and <b>SQL</b> for my current Web development projects.</p> -->
 
 <h2 align="center">Tech I'm looking to master:</h2>
