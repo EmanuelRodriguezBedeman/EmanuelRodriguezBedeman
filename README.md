@@ -71,7 +71,7 @@
 
  - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_)
 
-<h2 align="center">Projects on hold due to Heroku's plans changes:</h2>
+<h2 align="center">Project I'm working on:</h2>
 
  - Schedule Tweets webapp (_Made with:Ruby On Rails 🔻, Omniauth, Redis and Bootstrap_)
 
