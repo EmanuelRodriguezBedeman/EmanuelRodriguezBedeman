@@ -69,7 +69,7 @@
 
  - [To Do List Webapp](https://to-do-list-nsdh.onrender.com/) 📝 (_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Custom CSS_)
 
- - [Daily Journal V2](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_)
+ - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_)
 
 <h2 align="center">Projects on hold due to Heroku's plans changes:</h2>
 
