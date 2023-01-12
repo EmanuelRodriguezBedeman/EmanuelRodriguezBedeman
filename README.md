@@ -49,27 +49,27 @@
 
 <h3>Projects made on my career:</h3>
 
-- [Project CRUD](https://github.com/EmanuelRodriguezBedeman/Python/tree/main/Project-CRUD)
+- [Project CRUD](https://github.com/EmanuelRodriguezBedeman/Python/tree/main/Project-CRUD) [REPO]
 
 - <ins>Machine Learning project:</ins> "_Students Grades for Portuguese Course, Linear Regression_" You can find it on: [Kaggle](https://www.kaggle.com/emanuelbedeman/students-grades-for-portuguese-course/edit) or [GitHub](https://github.com/EmanuelRodriguezBedeman/Python/blob/main/Machine%20Learning/Stundents%20Grades/Portuguese%20Students%20Grades%2C%20Regression.ipynb)
 
- - [My Resume in HTML](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄
+ - [My Resume in HTML](https://emanuelrodriguezbedeman.github.io/Web-Development/HTML%20Resume/index.html)   📄 [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/HTML%20Resume)
 
- - [My Presentation page](https://emanuelrodriguezbedeman.github.io/Web-Development/CSS%20Presentation/index.html) **made with _CSS_** 🎨
+ - [My Presentation page](https://emanuelrodriguezbedeman.github.io/Web-Development/CSS%20Presentation/index.html) **made with _CSS_** 🎨 [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/CSS%20Presentation)
 
- - [Tindog Website](https://emanuelrodriguezbedeman.github.io/Web-Development/Tindog%20Bootstrap%205/index.html) made with **_Bootstrap_** 🐶
+ - [Tindog Website](https://emanuelrodriguezbedeman.github.io/Web-Development/Tindog%20Bootstrap%205/index.html) made with **_Bootstrap_** 🐶 [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Tindog%20Bootstrap%205)
 
- - Play a [Dice Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Dice%20Game/dice.html) that I made! 🎲 (_Made with: JS, CSS_)
+ - Play a [Dice Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Dice%20Game/dice.html) that I made! 🎲 (_Made with: JS, CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Dice%20Game)
 
- - Play with the [Drum Kit](https://emanuelrodriguezbedeman.github.io/Web-Development/Drum%20kit/index.html) 🥁 (_Made with: JS, CSS_)
+ - Play with the [Drum Kit](https://emanuelrodriguezbedeman.github.io/Web-Development/Drum%20kit/index.html) 🥁 (_Made with: JS, CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Drum%20kit)
 
- - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS_)
+ - Play [Simon Game](https://emanuelrodriguezbedeman.github.io/Web-Development/Simon%20Game/index.html) 🗣 (_Made with: JQuery, JS, CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Simon%20Game)
 
- - [Newsletter Subscription](https://newsletter-signup-example2.onrender.com/) 🗞📰 (_Made with: Node.js, Mailchimp API, Express, JQuery, JS, Custom CSS_)
+ - [Newsletter Subscription](https://newsletter-signup-example2.onrender.com/) 🗞📰 (_Made with: Node.js, Mailchimp API, Express, JQuery, JS, Custom CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Newsletter%20Signup)
 
- - [To Do List](https://to-do-list-nsdh.onrender.com/) 📝 (_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Custom CSS_)
+ - [To Do List](https://to-do-list-nsdh.onrender.com/) 📝 (_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Custom CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/To%20Do%20List)
 
- - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_)
+ - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Daily%20Journal-v2)
 
 <h2 align="center">Project I'm working on:</h2>
 
