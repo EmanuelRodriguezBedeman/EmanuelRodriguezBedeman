@@ -67,7 +67,7 @@
 
  - [Newsletter Subscription](https://newsletter-signup-example2.onrender.com/) 🗞📰 (_Made with: Node.js, Mailchimp API, Express, JQuery, JS, Custom CSS_)
 
- - [To Do List Webapp](https://to-do-list-nsdh.onrender.com/) 📝 (_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Custom CSS_)
+ - [To Do List](https://to-do-list-nsdh.onrender.com/) 📝 (_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Custom CSS_)
 
  - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_)
 
