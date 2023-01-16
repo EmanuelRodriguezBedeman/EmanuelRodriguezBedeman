@@ -76,7 +76,7 @@
 
 <h2 align="center">Project I'm working on:</h2>
 
- - Schedule Tweets webapp (_Made with:Ruby On Rails 🔻, Omniauth, Redis and Bootstrap_)
+ - Schedule Tweets webapp (_Made with: Ruby On Rails 🔻, Omniauth, Redis and Bootstrap_)
 
 <!--TAB-->
 
