@@ -27,7 +27,7 @@
  
 ---
 
-<h2 align="center">Technologies I learned on my journey:</h2>
+<h2 align="center">Technologies which I've some experience:</h2>
 
 <div align="center">
 
