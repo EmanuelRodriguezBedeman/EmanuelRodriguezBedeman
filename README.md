@@ -76,7 +76,7 @@
  - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Daily%20Journal-v2)
 
 <h4 align="center">
- Project I'm working on:
+ Project I'm currently working on:
  Schedule Tweets webapp (Made with: Ruby On Rails 7, Omniauth, Redis and Bootstrap)
 </h4>
 <!--TAB-->
