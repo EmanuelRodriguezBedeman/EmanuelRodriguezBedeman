@@ -6,7 +6,7 @@
  <p>Really interested, in everything that has to do with <b>Web Development</b> and <b>Data Analysis</b>!</p>
  <p>Right now, I'm widing my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind!</b></p>
  <p>Currently working with:</p>
- <p>- <strong>Python</strong> At my current job as Data Analyst</p>
+ <p>- <strong>Python</strong> At my current job as Data Analyst in UBATIC</p>
  <p>- <strong>Ruby On Rails</strong> Schedule Tweets Webapp</p>
  <!-- <p align="center">- <b>Ruby On Rails</strong>, <b>Bootstrap</b> and <b>SQL</b> for my current Web development projects.</p> -->
 </div>
