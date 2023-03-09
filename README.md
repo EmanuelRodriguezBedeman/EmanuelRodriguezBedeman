@@ -28,7 +28,7 @@
  
 ---
 
-<h2 align="center">Technologies which I have some experience using it:</h2>
+<h2 align="center">Technologies I have experience using and building with it:</h2>
 
 <div align="center">
 
