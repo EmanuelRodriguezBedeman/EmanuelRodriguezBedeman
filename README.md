@@ -79,6 +79,8 @@
 
  - Schedule Tweets (_Made with: Ruby On Rails 7 🔻, Docker, Twitter API, Redis, Sidekiq and more_) [REPO](https://github.com/EmanuelRodriguezBedeman/Rails---Scheduled-Tweets)
 
+<h1>Currently working on my [portfolio](https://emanuelrodriguezbedeman.github.io/Portfolio/index.html)</h1>
+
 <!--TAB-->
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emanuelrodriguezbedeman&show_icons=true&locale=en" alt="emanuelrodriguezbedeman stats" /></p>
