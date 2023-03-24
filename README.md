@@ -51,7 +51,7 @@
 
 <!--Projects list-->
 
-<h2 align="center">Checkout my portfolio!</h2>
+<h2 align="center">Checkout my projects!</h2>
 
 <h3>Projects made on my career:</h3>
 
