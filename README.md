@@ -77,7 +77,7 @@
 
  - [Daily Journal](https://daily-journal-fp1r.onrender.com/) 📄(_Made with: Node.js, Mongoose, Lodash, Express, JQuery, JS, Bootstrap,Custom CSS_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Web-Development/tree/main/Daily%20Journal-v2)
 
- - Schedule Tweets (_Made with: Ruby On Rails 7 🔻, Docker, Twitter API, Redis, Sidekiq and more_) [REPO](https://github.com/EmanuelRodriguezBedeman/Rails---Scheduled-Tweets)
+ - Schedule Tweets (_Made with: Ruby On Rails 7 🔻, Docker, Twitter API, Redis, Sidekiq and more_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Rails---Scheduled-Tweets)
 
 ### Currently working on my [portfolio](https://emanuelrodriguezbedeman.github.io/Portfolio/index.html)
 
