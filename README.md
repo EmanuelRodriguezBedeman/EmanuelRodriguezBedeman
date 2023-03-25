@@ -79,7 +79,7 @@
 
  - Schedule Tweets (_Made with: Ruby On Rails 7 🔻, Docker, Twitter API, Redis, Sidekiq and more_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Rails---Scheduled-Tweets)
 
-### Currently working on my [portfolio](https://emanuelrodriguezbedeman.github.io/Portfolio/index.html)
+### Currently working on my [portfolio](https://emanuelrodriguezbedeman.github.io/Portfolio/index.html) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Portfolio)
 
 <!--TAB-->
 
