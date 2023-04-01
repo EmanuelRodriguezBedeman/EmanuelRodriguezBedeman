@@ -18,7 +18,7 @@
 
  | <h3>Type</h3> | <h3>Tech / Framework</h3> |
  | :-------------: |:-------------:|
- | Languages | <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/></a> <img src="https://img.shields.io/badge/SQL-%20-blue?style=flat&logoColor=blue&labelColor=white" alt="SQL"> |
+ | Languages | <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3.x-yellow?style=flat&logo=python&logoColor=yellow&labelColor=blue" alt="python"/> --> </a> <img src="https://img.shields.io/badge/SQL-%20-blue?style=flat&logoColor=blue&labelColor=white" alt="SQL"> |
  | Dev Ops | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-4.7-blue?logo=Docker&labelColor=white" alt="docker"/></a> |
  | Dashboards | <!-- <a href="https://analytics.google.com/analytics/academy/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Data%20Studio-%20-orange?labelColor=white&logo=google&logoColor=orange" alt="Google Analytics 4"/></a> --> <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Grafana-%20-F05A28?labelColor=white&logo=Grafana&logoColor=F05A28" alt="Google Analytics 4"/></a> |
  | Agile Development | <a href="https://www.atlassian.com/agile/scrum" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SCRUM-%20-blue?logo=Atlassian&logoColor=blue&labelColor=white" alt="linux"/></a> |
