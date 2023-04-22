@@ -1,15 +1,13 @@
 <div align="center">
- <h1>Emanuel Rodriguez Bedeman</h1>  
- <h3>A Developer from Argentina🧉</h3>
- 
- <p>I'm a young entrepreneur, self educated, who started his journey in 2021.</p>
- <p>Really interested, in everything that has to do with <b>Web Development</b> and <b>Data Analysis</b>!</p>
- <p>Right now, I'm widing my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind css!</b></p>
- <p>Currently working with:</p>
- <p>- <strong>Python</strong> At my current job as Data Analyst in UBATIC</p>
- <p>- <strong>Tailwind CSS</strong> Building my Portfolio page</p>
- <!-- <p align="center">- <b>Ruby On Rails</strong>, <b>Bootstrap</b> and <b>SQL</b> for my current Web development projects.</p> -->
-</div>
+  <h1>Emanuel Rodriguez Bedeman</h1>
+ </div>
+<h3>A Developer from Argentina🧉</h3>
+<p>I'm a young entrepreneur, self educated, who started his journey in 2021.</p>
+<p>Really interested, in everything that has to do with <b>Web Development</b> and <b>Data Analysis</b>!</p>
+<p>Right now, I'm widing my knowledge on <b>Ruby On Rails</b>, and looking forward to learn <b>Tailwind css!</b></p>
+<p>Currently working with:</p>
+<p>- <strong>Python</strong> At my current job as Data Analyst in UBATIC</p>
+<p>- <strong>Tailwind CSS</strong> Building my Portfolio page</p>
 
 <div align="center">
  
