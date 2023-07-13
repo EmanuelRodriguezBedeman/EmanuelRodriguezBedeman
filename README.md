@@ -6,7 +6,7 @@
 <p>Really interested, in everything that has to do with <b>Data Analysis</b> and <b>Web Development</b>!</p>
 <p>Right now, I'm learning <b>Tailwind css!</b></p>
 <p>Currently working with:</p>
-<p>- <strong>Python</strong> At my current job as Data Analyst in <b>UBATIC</b></p>
+<p>- <strong>Python</strong> At my current job as Data Analyst in <b>Project UBATIC</b></p>
 <p>- <strong>Tailwind CSS</strong> Building my Portfolio page</p>
 
 <div align="center">
