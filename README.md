@@ -1,13 +1,16 @@
 <div align="center">
   <h1>Emanuel Rodriguez Bedeman</h1>
   <h3>A Developer from Argentina🧉</h3>
- </div>
-<p>I'm a young, self educated programmer who started his journey in 2021.</p>
-<p>Really interested, in everything that has to do with <b>Data Analysis</b> and <b>Web Development</b>!</p>
-<p>Right now, I'm learning <b>Tailwind css!</b></p>
-<p>Currently working with:</p>
-<p>- <strong>Python</strong> At my current job as Data Analyst in <b>Project UBATIC</b></p>
-<p>- <strong>Tailwind CSS</strong> Building my Portfolio page</p>
+</div>
+
+
+### About Me:
+I'm a young, self educated programmer who started his journey in 2021.  
+Really interested, in everything that has to do with **Data Analysis** and **Web Development**!
+
+Currently working with:
+- **Python** At my current job as **Data Analyst** in **Project UBATIC**
+- **Tailwind CSS** Building my **Portfolio page**
 
 <div align="center">
  
