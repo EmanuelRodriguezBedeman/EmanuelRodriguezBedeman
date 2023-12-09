@@ -9,8 +9,7 @@ I'm a young, self educated programmer who started his journey in 2021.
 Really interested, in everything that has to do with **Data Analysis** and **Web Development**!
 
 Currently working with:
-- **Python** At my current job as **Data Analyst** in **Project UBATIC**
-- **Tailwind CSS** Building my **Portfolio page**
+- **Python**, **Power BI** & **Looker** At my current job as **Data Analyst** in **Laboratorio de Innovacion tecnológica en salud publica**.
 
 <div align="center">
  
