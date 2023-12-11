@@ -77,7 +77,7 @@ Currently working with:
 
  - Schedule Tweets (_Made with: Ruby On Rails 7 🔻, Docker, Twitter API, Redis, Sidekiq and more_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Rails---Scheduled-Tweets)
 
- - My [Portfolio](https://emanuelrodriguezbedeman.github.io/Portfolio/index.html) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Portfolio)
+ - My [Portfolio](https://emanuelrodriguezbedeman.github.io/Portfolio/index.html) (_Made with: HTML, Custom CSS & Tailwind_) [[REPO]](https://github.com/EmanuelRodriguezBedeman/Portfolio)
 
 <!--TAB-->
 
