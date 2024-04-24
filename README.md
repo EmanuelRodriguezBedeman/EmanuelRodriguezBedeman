@@ -8,7 +8,7 @@ I'm a young, self educated programmer who started his journey in 2021.
 Really interested, in everything that has to do with **Data Analysis** and **Web Development**!
 
 Currently working with:
-- **Python**, **Power BI** & **Looker** At my current job as **Data Analyst** in **[Programa de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
+- **Python**, **Power BI** & **Looker Studio** At my current job as **Data Analyst** in **[Programa de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
 
 <div align="center">
  
