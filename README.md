@@ -49,7 +49,7 @@ Currently working with:
 
 <!--Projects list-->
 
-<h2 align="center">Checkout my <a href="https://emanuelrodriguezbedeman.github.io/Portfolio/index.html" target="_blank" rel="noreferrer"> Portfolio </a>!</h2>
+<h2 align="center">Checkout my <a href="https://emanuelrodriguezbedeman.github.io/Portfolio/index.html" target="_blank" rel="noreferrer"> Portfolio </a></h2>
 
 <h3 align="center">Connect with me:</h3>  
 <p align="center"> 
