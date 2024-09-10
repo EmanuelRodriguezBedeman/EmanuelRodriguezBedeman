@@ -9,7 +9,7 @@ Really interested, in everything that has to do with **Data Science**.
 
 Currently working with:
 - **Python** & **Looker Studio** At my current job as **Data Scientist** in **[Programa de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
-- As a professor on my own Data Analysis course for beginners on UNDAV (Python para analisis de datos para principiantes)
+- As a tutor on **[HumAI](https://humai.com.ar/)** institute.
 
 <div align="center">
  
