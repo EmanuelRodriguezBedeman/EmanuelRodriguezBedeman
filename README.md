@@ -3,10 +3,6 @@
   <h3>Developer from Argentina🧉</h3>
 </div>
 
-### About Me:
-I'm a young, self educated programmer who started his journey in 2020.
-Really interested, in everything that has to do with **Data Science**.
-
 Currently working with:
 - **Python** & **Looker Studio** At my current job as **Data Scientist** in **[Programa de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
 - As a tutor on **[HumAI](https://humai.com.ar/)** institute.
