@@ -3,7 +3,7 @@
   <h3>Developer from Argentina🧉</h3>
 </div>
 
-Currently working with:
+Currently working at:
 - **Python** & **Looker Studio** At my current job as **Data Scientist** in **[Programa de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
 - As a tutor on **[HumAI](https://humai.com.ar/)** institute.
 
