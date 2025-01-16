@@ -14,7 +14,7 @@ Current roles:
 
 <div align="center">
  
-  <h2 align="center">My Abilities</h2>
+  <h2 align="center">↓ My Abilities ↓</h2>
   
   | <h3>Type</h3> | <h3>Technologies</h3> |
   | :-------------: |:-------------:|
@@ -29,7 +29,7 @@ Current roles:
 
 </div>
 
-<h2 align="center">Checkout my <a href="https://emanuelrodriguezbedeman.github.io/Portfolio/index.html" target="_blank" rel="noreferrer"> Portfolio </a></h2>
+<h2 align="center"> → Checkout my <a href="https://emanuelrodriguezbedeman.github.io/Portfolio/index.html" target="_blank" rel="noreferrer"> Portfolio </a> ← </h2>
 
 <h3 align="center">Connect with me:</h3>  
 <p align="center"> 
