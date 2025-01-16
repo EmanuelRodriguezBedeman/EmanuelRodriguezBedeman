@@ -3,13 +3,14 @@
   <h3>Developer from Argentina🧉</h3>
 </div>
 
-Working at:
-- **[Laboratorio de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)** - **Data Scientist**.
-- **[HumAI Institute](https://humai.com.ar/)** - Tutor in the following courses:
-  - [Introduction to programming](https://humai.com.ar/cursos/python).
-  - [Data Analysis](https://humai.com.ar/cursos/data).
-  - [Databases](https://humai.com.ar/cursos/dbs).
-  - [Advanced Python](https://humai.com.ar/cursos/python_avanzado).
+Current roles:
+- **Data Scientist** - **[Laboratorio de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
+- **Tutor** **[HumAI Institute](https://humai.com.ar/)**
+  - **Courses**:
+    - [Introduction to programming](https://humai.com.ar/cursos/python)
+    - [Data Analysis](https://humai.com.ar/cursos/data)
+    - [Databases](https://humai.com.ar/cursos/dbs)
+    - [Advanced Python](https://humai.com.ar/cursos/python_avanzado)
 
 <div align="center">
  
