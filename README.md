@@ -3,9 +3,13 @@
   <h3>Developer from Argentina🧉</h3>
 </div>
 
-Currently working at:
-- **Python** & **Looker Studio** At my current job as **Data Scientist** in **[Programa de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
-- As a tutor on **[HumAI](https://humai.com.ar/)** institute.
+Working at:
+- **[Laboratorio de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)** - **Data Scientist**.
+- **[HumAI Institute](https://humai.com.ar/)** - Tutor in the following courses:
+  - [Introduction to programming](https://humai.com.ar/cursos/python).
+  - [Data Analysis](https://humai.com.ar/cursos/data).
+  - [Databases](https://humai.com.ar/cursos/dbs).
+  - [Advanced Python](https://humai.com.ar/cursos/python_avanzado).
 
 <div align="center">
  
