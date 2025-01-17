@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Emanuel Rodriguez Bedeman</h1>
-  <h3>Developer from Argentina🧉</h3>
+  <h1>Emanuel Rodriguez Bedeman 🧉</h1>
 </div>
 
 Current roles:
