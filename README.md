@@ -2,7 +2,7 @@
   <h1>Emanuel Rodriguez Bedeman 🧉</h1>
 </div>
 
-Current roles:
+Previous roles:
 - **Data Scientist** - **[Laboratorio de Innovación Tecnológica en Salud Pública](https://www.linkedin.com/company/labdeinnovacion/)**.
 - **Tutor** **[HumAI Institute](https://humai.com.ar/)**
   - **Courses**:
@@ -10,6 +10,11 @@ Current roles:
     - [Data Analysis](https://humai.com.ar/cursos/data)
     - [Databases](https://humai.com.ar/cursos/dbs)
     - [Advanced Python](https://humai.com.ar/cursos/python_avanzado)
+- **Data Scientist** - [Adia Health](https://www.adia.ai/)
+ - **Clinical Data Analysis & Feature Engineering**: Analyzed complex clinical data from Redshift and Athena to identify biomarkers and engineer features that improved test recommendation models.
+ - **Medical AI Systems Validation**: Validated and optimized rule-based, LLM, and Knowledge Graph lab recommendation systems to ensure medical accuracy and clinical relevance.
+ - **Prompt Engineering**: Designed and tested prompts to extract previously uncaptured clinical insights beyond existing NLP systems.
+ - **Medical Ontology Implementation**: Applied medical ontologies to structure healthcare data with standardized, interoperable terminology.
 
 <div align="center">
  
